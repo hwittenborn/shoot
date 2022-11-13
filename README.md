@@ -1,3 +1,7 @@
+> **Note**   
+> I discovered https://github.com/8go/matrix-commander-rs existed shortly after making this. Please use that instead.
+
+
 # Shoot
 This is the repository for Shoot, a CLI frontend for [Matrix](https://matrix.org/), written in Rust.
 
