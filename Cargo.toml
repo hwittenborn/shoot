@@ -1,9 +1,9 @@
 [package]
 name = "shoot"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Hunter Wittenborn <hunter@hunterwittenborn.com>"]
 edition = "2021"
-description = "An easy to use CLI to send messages to Matrix servers"
+description = "A CLI frontend for Matrix, written in Rust"
 repository = "https://github.com/hwittenborn/shoot"
 license = "GPL-3.0-or-later"
 keywords = ["matrix"]

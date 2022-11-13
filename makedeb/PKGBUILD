@@ -1,8 +1,8 @@
 # Maintainer: Hunter Wittenborn <hunter@hunterwittenborn.com>
 pkgname=shoot
-pkgver=0.1.0
+pkgver=0.1.1
 pkgrel=1
-pkgdesc='An easy to use CLI to send messages to Matrix servers'
+pkgdesc='A CLI frontend for Matrix, written in Rust'
 arch=('any')
 makedepends=('cargo')
 license=('GPL3')
