@@ -8,6 +8,7 @@ fi
 
 .drone/scripts/setup-pbmpr.sh
 sudo apt-get install gh parse-changelog rustup -y
+rustup default stable
 
 rustup_targets=(
     'aarch64-unknown-linux-gnu'
