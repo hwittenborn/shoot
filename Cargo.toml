@@ -1,7 +1,13 @@
 [package]
 name = "shoot"
 version = "0.1.0"
+authors = ["Hunter Wittenborn <hunter@hunterwittenborn.com>"]
 edition = "2021"
+description = "An easy to use CLI to send messages to Matrix servers"
+repository = "https://github.com/hwittenborn/shoot"
+license = "GPL-3.0-or-later"
+keywords = ["matrix"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 clap = { version = "4.0.12", features = ["derive", "env"] }
